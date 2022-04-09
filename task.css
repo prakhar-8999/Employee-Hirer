@@ -90,7 +90,6 @@
     margin-left: 4cm;
     border-radius: 10px;
     font-size: 0.7cm;
-    /* border-color: #2b31f2; */
     outline-color: #2b31f2;
 }
 
@@ -102,7 +101,7 @@
     margin-left: 2cm;
     border-radius: 10px;
     font-size: 0.7cm;
-    outline-color: #f1f0f0;
+    outline-color: #2b31f2;
 }
 
 .Lnameinput{ 
