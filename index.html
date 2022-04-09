@@ -1,0 +1,61 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Clone Website</title>
+
+    <link rel="stylesheet" href="task.css">
+  </head>
+  <body>
+    <div class="background">
+      <div style="width: 25%; float: left;">
+        <center>
+          <img class="logo" src="photo.png" alt="logo">
+          <br>
+          <br>
+          <h1 class="welcome">Welcome</h1>
+          <p class="text">You are 30 seconds</p>
+          <p class="text">away from earning your</p>
+          <p class="text">own money!</p>
+          <br><br>
+          <br><br><br><br>
+          <button class="button1"><b>Login</b></button>
+        </center>
+      </div>
+
+      <div style="width: 75%; float: right;">
+        <div class="inputblock">
+          <br><br>
+          <div class="buttonblock">
+            <form action="Task 2.html" method="post">
+              <button type="submit" class="ebuttton"><b style="color: white;">Employee</b></button>
+              <button type="submit" class="hbuttton"><b style="color: #6b6fe8;">Hirer</b></button>
+            </form>
+          </div>
+          <form>
+            <h1 class="heading1">Apply as a Hirer</h1>
+            <input class="fnameinput" type="text" required placeholder="  First Name *">
+            <input class="Email" type="text" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required placeholder="  Your Email *">
+            <input class="Lnameinput" type="text" required placeholder="  Last Name *">
+            <input class="yphone" type="number" required placeholder="  Your Phone *">
+            <input class="pass" type="password" required placeholder="  Password *">
+            <select class="yphone"  name="security" required id="security">
+                <option value="">  Please select your Security Questions</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+            </select>
+            <input class="Lnameinput" type="password" required placeholder="  Confirm Password *">
+            <input class="yphone" type="text" required placeholder="  Enter Your Answer *">
+            <br>
+            <input class="male" type="radio" required id="1" name="1">
+            <label style="font-size: 25px;" for="male">Male</label>
+            <input type="radio" required id="1" name="1">
+            <label style="font-size: 25px;" for="female">Female</label><br>
+            <!-- <button class="Rbutton" type="submit"><b style="color: white;">Register</b></button> -->
+            <input class="Rbutton" type="submit" style="color: white;" value="Register">
+          </form> 
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

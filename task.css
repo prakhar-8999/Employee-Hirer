@@ -1,0 +1,174 @@
+.background{
+    background: linear-gradient(to right, #0000cc 0%, #66ccff 102%);
+    width: 100%;
+    height: 100%;
+}
+
+.logo{
+    margin-top: 5cm;
+    width: 4cm;
+}
+
+.welcome{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    color: white;
+    margin-left: 0.5cm;
+}
+
+.text{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 22px;
+    margin-left: 0.5cm;
+}
+
+.button1{
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 25px;
+    width: 4.5cm;
+    height: 1.2cm;
+    font-size: large;
+    margin-left: 0.5cm;
+}
+
+.inputblock{
+    background-color: #f3f0f0;
+    width: 90%;
+    height: 84%;
+    margin-top: 2cm;
+    margin-left: 2cm;
+    /* border-top-left-radius: 4cm;
+    border-bottom-left-radius: 4cm; */
+    border-bottom-left-radius: 160px 350px;
+    border-top-left-radius: 160px 350px;
+}
+
+.buttonblock{
+    background-color: #2b31f2;
+    width: 7cm;
+    height: 1.3cm;
+    margin-left: 25cm;
+    border-radius: 2cm;
+}
+
+.employeebuttton{
+    background-color: white;
+    border-radius: 2cm;
+    width: 3.4cm;
+    height: 1.3cm;
+    font-size: large;
+    border:none;
+}
+
+.hirerbuttton{
+    background-color: #2b31f2;
+    border-radius: 2cm;
+    font-size: large;
+    width: 3.4cm;
+    height: 1.3cm;
+    border-color: #2b31f2;
+    border:none;
+}
+
+.heading1{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: #4b4b4b;
+    font-size: 50px;
+}
+
+.fnameinput{
+    width: 12cm;
+    height: 1.3cm;
+    background-color: #f1f0f0;
+    margin-top: 1.3cm;
+    margin-left: 4cm;
+    border-radius: 10px;
+    font-size: 0.7cm;
+    /* border-color: #2b31f2; */
+    outline-color: #2b31f2;
+}
+
+.Email{
+    width: 12cm;
+    height: 1.3cm;
+    background-color: #f1f0f0;
+    margin-top: 1.3cm;
+    margin-left: 2cm;
+    border-radius: 10px;
+    font-size: 0.7cm;
+    outline-color: #f1f0f0;
+}
+
+.Lnameinput{ 
+    width: 12cm;
+    height: 1.3cm;
+    background-color: #f1f0f0;
+    margin-top: 1cm;
+    margin-left: 4cm;
+    border-radius: 10px;
+    font-size: 0.7cm;
+    outline-color: #2b31f2;
+}
+
+.yphone{
+    width: 12cm;
+    height: 1.3cm;
+    background-color: #f1f0f0;
+    margin-top: 1cm;
+    margin-left: 2cm;
+    border-radius: 10px;
+    font-size: 0.7cm;
+    outline-color: #2b31f2;
+}
+
+.pass{
+    width: 12cm;
+    height: 1.3cm;
+    background-color: #f1f0f0;
+    margin-top: 1cm;
+    margin-left: 4cm;
+    border-radius: 10px;
+    font-size: 0.7cm;   
+    outline-color: #2b31f2;
+}
+
+.male{
+    margin-top: 1cm;
+    margin-left: 4cm;
+}
+
+.Rbutton{
+    background-color: #2b31f2;
+    border-radius: 2cm;
+    font-size: large;
+    width: 4.6cm;
+    height: 1cm;
+    margin-left: 25cm;
+    margin-top: 0.6cm;
+}
+
+.hbuttton{
+    background-color: white;
+    border-radius: 2cm;
+    width: 3.4cm;
+    height: 1.3cm;
+    font-size: large;
+    margin-left: 3.5px;
+    border:none;
+}
+
+.ebuttton{
+    background-color: #2b31f2;
+    border-radius: 2cm;
+    font-size: large;
+    width: 3.4cm;
+    height: 1.3cm;
+    border-color: #2b31f2;
+    border:none;
+}
